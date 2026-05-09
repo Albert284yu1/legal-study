@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "35dc6412bd03f1cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "7758b10fd6e7eb5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20b9e778f9004193",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5862e8bb3fc614ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "aec320551b2f4cf3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30e02f3f5c8fa27a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "24b7b3850071885b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a8768966323557c0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ff7fe985e52cfa5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "3098cb01d231e864",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19b9a4b04c50f732",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for README"
+            }
+          },
+          {
+            "id": "eef366f3a0bcaea0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from README"
+            }
+          },
+          {
+            "id": "97476f55ce14e1d8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1a11db6c8586c8e8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "22cee0681bb042fc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "30e02f3f5c8fa27a",
+  "lastOpenFiles": [
+    "SETUP.md",
+    "vault/templates/jurisprudentie.md",
+    "vault/templates/hoorcollege.md",
+    "vault/templates/exam-sim.md",
+    "scripts/process_lecture.py",
+    "scripts/New Text Document.txt",
+    "scripts/transcribe.py",
+    "scripts/test.py",
+    "scripts/test.txt",
+    "requirements.txt",
+    "venv/Lib/site-packages/anthropic-0.100.0.dist-info/RECORDks_rem0h.tmp",
+    "venv/Lib/site-packages/anthropic-0.100.0.dist-info/REQUESTED",
+    "venv/Lib/site-packages/anthropic-0.100.0.dist-info/INSTALLER",
+    "venv/Lib/site-packages/anthropic/types/__pycache__/web_search_tool_result_error_code.cpython-312.pyc",
+    "venv/Lib/site-packages/anthropic/lib/foundry.md",
+    "venv/Lib/site-packages/openai/resources/webhooks/api.md",
+    "venv/Lib/site-packages/openai/resources/responses/api.md",
+    "venv/Lib/site-packages/openai/resources/realtime/api.md",
+    "venv/Lib/site-packages/openai/resources/conversations/api.md",
+    "venv/Lib/site-packages/httpx-0.28.1.dist-info/licenses/LICENSE.md",
+    "venv/Lib/site-packages/httpcore-1.0.9.dist-info/licenses/LICENSE.md",
+    "venv/Lib/site-packages/docstring_parser-0.18.0.dist-info/licenses/LICENSE.md",
+    "venv/Lib/site-packages/idna-3.13.dist-info/licenses/LICENSE.md",
+    "env.md",
+    "2026-05-09.md",
+    "templates/exam-sim.md",
+    "templates/jurisprudentie.md",
+    "templates/hoorcollege.md",
+    "templates/hoorcollege.md.md",
+    "templates/New Text Document - Copy (2).md",
+    "templates/New Text Document - Copy.md",
+    "templates/New Text Document.md"
+  ]
+}

@@ -1,0 +1,15 @@
+.env
+venv/
+*.mp3
+*.mp4
+*.wav
+*.m4a
+__pycache__/
+*.pyc
+.DS_Store.obsidian/ 
+# Transcripts (kunnen privacy-gevoelig zijn)
+vault/vakken/*/aantekeningen/*.txt
+*.txt
+
+# Maar wel de scripts bewaren
+!scripts/*.py
